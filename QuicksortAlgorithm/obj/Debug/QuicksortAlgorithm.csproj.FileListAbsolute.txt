@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-11\Assignment-16(20-Nov-23)\QuicksortAlgorithm\QuicksortAlgorithm\bin\Debug\QuicksortAlgorithm.exe.config
+C:\mphasis-B2\Day-11\Assignment-16(20-Nov-23)\QuicksortAlgorithm\QuicksortAlgorithm\bin\Debug\QuicksortAlgorithm.exe
+C:\mphasis-B2\Day-11\Assignment-16(20-Nov-23)\QuicksortAlgorithm\QuicksortAlgorithm\bin\Debug\QuicksortAlgorithm.pdb
+C:\mphasis-B2\Day-11\Assignment-16(20-Nov-23)\QuicksortAlgorithm\QuicksortAlgorithm\obj\Debug\QuicksortAlgorithm.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-11\Assignment-16(20-Nov-23)\QuicksortAlgorithm\QuicksortAlgorithm\obj\Debug\QuicksortAlgorithm.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-11\Assignment-16(20-Nov-23)\QuicksortAlgorithm\QuicksortAlgorithm\obj\Debug\QuicksortAlgorithm.exe
+C:\mphasis-B2\Day-11\Assignment-16(20-Nov-23)\QuicksortAlgorithm\QuicksortAlgorithm\obj\Debug\QuicksortAlgorithm.pdb
